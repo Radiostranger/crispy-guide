@@ -1,3 +1,7 @@
+// $font-stack: Helvetica, sans-serif;
+// $primary-color: #333;
+
+
 #projects {
   background-color: $white-color;
   color: $dark-blue-text;
@@ -8,6 +12,18 @@
     margin-top: 0;
     padding-top: 5rem;
   }
+  // #mobile{
+  //   font: 100% $font-stack;
+  // color: $primary-color;
+  //   background-color: $white-color;
+  // color: $dark-blue-text;
+  // margin-top: -15rem;
+  // padding-top: 15rem;
+
+  // @include respond(tab-land) {
+  //   margin-top: 0;
+  //   padding-top: 15rem;
+  // }
 
   .project-wrapper {
     margin-bottom: 15rem;
