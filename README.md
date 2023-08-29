@@ -7,7 +7,7 @@
   <br>
 </h2>
 
-**_IMPORTANT NOTE_**: New fastest version came out, built with React + Gatsby! 🎉🎉🎉 See more: [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)
+
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oFzmq6Kj4yXZUVHmE/giphy.gif" alt="Look up!" width="600px" />
@@ -23,8 +23,6 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
-
-To view a demo example, **[click here](https://simplfolio.netlify.com/)**
 
 ---
 
@@ -62,7 +60,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/Radiostranger/crispy-guide/
 
 # Go into the repository
 $ cd simplefolio
@@ -103,9 +101,6 @@ $ sudo npm install --unsafe-perm=true --allow-root
 
 Once your server has started, go to this url `http://localhost:8080/` and you will see the website running on a Development Server:
 
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
-</h2>
 
 ---
 
